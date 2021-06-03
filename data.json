@@ -1,0 +1,34 @@
+{
+	"customers": [
+		{
+			"id": "1",
+			"name": "Liu Kang",
+			"email": "kang@earthrealm.com",
+			"age": 25
+		},
+		{
+			"id": "2",
+			"name": "Sonya Blade",
+			"email": "blade@earthrealm.com",
+			"age": 27
+		},
+		{
+			"id": "4",
+			"name": "Raiden",
+			"email": "raiden@earthrealm.com",
+			"age": 5000
+		},
+		{
+			"id": "5",
+			"name": "Jax",
+			"email": "jax@earthrealm.com",
+			"age": 32
+		},
+		{
+			"name": "Johnny Cage",
+			"email": "cage@earthrealm.com",
+			"age": 35,
+			"id": "USG-yEH"
+		}
+	]
+}
